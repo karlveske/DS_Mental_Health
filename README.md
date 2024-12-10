@@ -10,19 +10,23 @@ And built a ML depression prediction model, which achieved a prediction accuracy
 - data_preparation Jupyter notebook - this further alters the train_cleaner2.csv dataset to be more suitable for ML
 - roc_and_confuscion_matrices Jupyter notebook - this is the notebook where ML model is created. 
 
-The precision we achieved in a Kaggle competition
+The score we achieved in a Kaggle competition
 ![image](https://github.com/user-attachments/assets/bf648532-71b6-4b38-96d0-82f3f14dc038)
+
+
+### Data
 
 Raw data: (inside a separate directory)
 - train.csv and test.csv. This was the data we got from Kaggle and cleaned and one-hot encoded for the data analysis and ML.
-- There are some working files we used in our work.  
+- There are some other working files we used in our work that can be ignored.  
 
 Working data:
+
 This is the data we used for analysis and ML. 
 - test_cleaner2.csv
 - train_cleaner2.csv
 
-Data generated from data_preparation Jupyer notebook. 
+Data generated from data_preparation Jupyer notebook and what's used inside roc_and_confuscion_matrices Jupyter notebook 
 - X_train_sub.csv
 - X_val.csv
 - y_train_sub.csv
