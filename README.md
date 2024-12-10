@@ -17,7 +17,7 @@ The score we achieved in a Kaggle competition
 ### Data
 
 Raw data: (inside a separate directory)
-- train.csv and test.csv. This was the data we got from Kaggle and cleaned and one-hot encoded for the data analysis and ML.
+- train.csv and test.csv. This was the data we got from Kaggle, cleaned (deleted rows with broken or missing values) and one-hot encoded for the data analysis and ML.
 - There are some other working files we used in our work that can be ignored.  
 
 Working data:
