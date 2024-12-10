@@ -26,7 +26,7 @@ This is the data we used for analysis and ML.
 - test_cleaner2.csv
 - train_cleaner2.csv
 
-Data generated from data_preparation Jupyer notebook and what's used inside roc_and_confuscion_matrices Jupyter notebook 
+Data generated from <I> data_preparation </I> Jupyter notebook and what's used inside <I> roc_and_confuscion_matrices </I> Jupyter notebook 
 - X_train_sub.csv
 - X_val.csv
 - y_train_sub.csv
