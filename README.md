@@ -8,7 +8,7 @@ And built a ML depression prediction model, which achieved a prediction accuracy
 ## The project consists of the following components. 
 - Depression_Analysis Jupyter notebook -  exploratory analysis and visualizations of the data. 
 - data_preparation Jupyter notebook - this further alters the train_cleaner2.csv dataset to be more suitable for ML
-- roc_and_confuscion_matrices Jupyter notebook - this is the notebook where ML model is created. 
+- roc_and_confuscion_matrices Jupyter notebook - this is the notebook where the RandomForest ML model is created. 
 
 The score we achieved in a Kaggle competition
 ![image](https://github.com/user-attachments/assets/bf648532-71b6-4b38-96d0-82f3f14dc038)
