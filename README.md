@@ -1,4 +1,13 @@
-This is the final project of the University of Tartu Data Science course. 
+# Depression Analysis and Prediction. 
+
+This is the final project of the University of Tartu Data Science course. (Group B5)
+
+#### Authors:
+Karl-Christofer Veske
+
+Kristjan Siim
+
+Karl Tomasson
 
 ## Achievements
 In this project, we analyzed patterns and differences between people who have and don't have depression. 
@@ -33,9 +42,4 @@ Data generated from <I> Data_Preparation </I> Jupyter notebook and what's used i
 - y_train_sub.csv
 - y_val.csv
 
-#### Authors:
-Karl-Christofer Veske
 
-Kristjan Siim
-
-Karl Tomasson
