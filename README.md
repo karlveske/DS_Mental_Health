@@ -1,6 +1,6 @@
 # Depression Analysis and Prediction. 
 
-This is the final project of the University of Tartu Data Science course. (Group B5)
+This is the final project of the University of Tartu Introduction to Data Science course. (Group B5)
 
 #### Authors:
 Karl-Christofer Veske
@@ -23,11 +23,10 @@ The score we achieved in the [Kaggle competition](https://www.kaggle.com/competi
 - Data_Preparation Jupyter notebook - this further alters the train_cleaner2.csv dataset to be more suitable for ML and splits it up into four new datasets. 
 - Predictive_Modelling Jupyter notebook - this is the notebook where the RandomForest ML model is created. 
 
-
 ### Data
 
 Raw data: (inside a separate directory)
-- train.csv and test.csv. This was the data we got from Kaggle, cleaned (deleted rows with broken or missing values) and one-hot encoded for the data analysis and ML.
+- train.csv and test.csv. This was the data we got from Kaggle, cleaned (deleted rows with broken or missing values), and one-hot encoded for the data analysis and ML.
 - There are some other working files we used in our work that can be ignored.  
 
 Working data:
