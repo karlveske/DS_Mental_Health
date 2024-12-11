@@ -6,9 +6,10 @@ In this project, we analyzed patterns and differences between people who have an
 And built a ML depression prediction model, which achieved a prediction accuracy of ~93% in a Kaggle competition. This means that, on that competition dataset, our model correctly classified 93% of the cases as depressed or not depressed.
 
 ## The project consists of the following components. 
-- Depression_Analysis Jupyter notebook -  exploratory analysis and visualizations of the data. 
-- data_preparation Jupyter notebook - this further alters the train_cleaner2.csv dataset to be more suitable for ML
-- roc_and_confuscion_matrices Jupyter notebook - this is the notebook where the RandomForest ML model is created. 
+- Depression_Analysis Jupyter notebook -  exploratory analysis and visualizations of the data.
+- train_cleaning & test_cleaning Jupyter notebooks - these are notebooks where the data we got from Kaggle is one-hot encoded. 
+- Data_Preparation Jupyter notebook - this further alters the train_cleaner2.csv dataset to be more suitable for ML. 
+- Predictive_Modelling Jupyter notebook - this is the notebook where the RandomForest ML model is created. 
 
 The score we achieved in a Kaggle competition
 ![image](https://github.com/user-attachments/assets/bf648532-71b6-4b38-96d0-82f3f14dc038)
@@ -26,7 +27,7 @@ This is the data we used for analysis and ML.
 - test_cleaner2.csv
 - train_cleaner2.csv
 
-Data generated from <I> data_preparation </I> Jupyter notebook and what's used inside <I> roc_and_confuscion_matrices </I> Jupyter notebook 
+Data generated from <I> Data_Preparation </I> Jupyter notebook and what's used inside <I> Predictive_Modelling </I> Jupyter notebook 
 - X_train_sub.csv
 - X_val.csv
 - y_train_sub.csv
